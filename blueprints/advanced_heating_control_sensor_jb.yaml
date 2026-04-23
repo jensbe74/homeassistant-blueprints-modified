@@ -8,7 +8,7 @@ blueprint:
     *Version:* 5
     "
   domain: template
-  source_url: https://github.com/jensbe74/homeassistant-blueprints-modified/blob/master/blueprints/template/jensbe74/advanced_heating_control_sensor.yaml
+  source_url: https://github.com/jensbe74/homeassistant-blueprints-modified/blob/master/blueprints/advanced_heating_control_sensor_jb.yaml
 
   input:
     ahc_automation:

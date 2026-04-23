@@ -5,7 +5,7 @@ This repository contains modified Home Assistant blueprints.
 **Original Repository:** [panhans/HomeAssistant](https://github.com/panhans/HomeAssistant)
 **License:** [MIT License](https://github.com/panhans/HomeAssistant/blob/main/LICENSE)
 
-## 🔥 Advanced Heating Control (Modified)
+## 🔥 Advanced Heating Control JB -V5
 
 ### Änderungen am 23.04.2026
 
@@ -20,5 +20,7 @@ Der Blueprint wurde erweitert, um zusätzliche Anwesenheitsentitäten zu unterst
     - Integration in die Frostschutz-Logik (`is_frost_protection`).
     - Korrekte Behandlung in der `is_minimal_config` Prüfung.
 
-#### Datei:
-- [advanced_heating_control.yaml](file:///C:/Antigravity-Projekte/homeassistant/blueprints/automation/panhans/advanced_heating_control.yaml)
+#### Dateien in diesem Repository:
+- [advanced_heating_control_jb_v5.yaml](blueprints/advanced_heating_control_jb_v5.yaml)
+- [advanced_heating_control_sensor_jb.yaml](blueprints/advanced_heating_control_sensor_jb.yaml)
+- [scene_toggle_jb.yaml](blueprints/scene_toggle_jb.yaml)

@@ -1,5 +1,5 @@
 blueprint:
-  name: 🔥 Advanced Heating Control V5
+  name: 🔥 Advanced Heating Control JB -V5
   author: jensbe74
   homeassistant:
     min_version: "2024.10.0"
@@ -50,17 +50,8 @@ blueprint:
 
     **Version**: 5.5.7
 
-    **Help & FAQ**: [Advanced Heating Control](https://community.home-assistant.io/t/advanced-heating-control/469873)
-
-    **Documentation:** [panhans.github.io/HomeAssistant/](https://panhans.github.io/HomeAssistant/)
-
-
-    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q3QEH52)
-    <a href="https://www.paypal.com/donate/?hosted_button_id=ZQ333L4BA3YLU">
-      <img src='https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/refs/heads/master/blue.svg'
-           width="200" alt="Donate with PayPal">
-    </a>
-  source_url: https://github.com/jensbe74/homeassistant-blueprints-modified/blob/master/blueprints/automation/jensbe74/advanced_heating_control.yaml
+    **Version**: 5.5.7 (JB-Mod)
+  source_url: https://github.com/jensbe74/homeassistant-blueprints-modified/blob/master/blueprints/advanced_heating_control_jb_v5.yaml
   domain: automation
   input:
     thermostat_section:
